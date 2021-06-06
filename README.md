@@ -10,7 +10,7 @@ You need to be a Red Hat Business Partner to be able to participate.
 ## Schedule
 |Date|Content|Presentation|
 |---|---|---|
-31 March 2021, 10:00 CEST|Introduction to the DLP and basic development with OpenShift|[](1_Introduction to Red Hat OpenShift for Developers.pdf)|
+31 March 2021, 10:00 CEST|Introduction to the DLP and basic development with OpenShift|[Introduction Slides]("./1_Introduction to Red Hat OpenShift for Developers.pdf")|
 
 
 
