@@ -25,10 +25,10 @@ You need to be a Red Hat Business Partner to be able to participate.
 ## Schedule
 |Date|Content|Presentation|
 |---|---|---|
-15th Sep 2021, 11:00 CEST|Introduction to the DLP and basic development with OpenShift | [Introduction Slides](./1_Introduction_to_Red_Hat_OpenShift_for_Developers.pdf) |
-22th Sep 2021, 11:00 CEST|Application Packaging | [Application Packaging Slides](./2_Application_Packaging.pdf) |
-|29th Sep 2021, 11:00 CEST|CI/CD|[Slides to CI/CD](./3_CI_CD.pdf)|
-|7th Oct 2021, 11:00 CEST|Optional And Homework|[Slides to the Homework description and Optional Learnings](./4_Optional_and_Homework.pdf)|
+15th Sep 2021, 10:00 CEST|Introduction to the DLP and basic development with OpenShift | [Introduction Slides](./1_Introduction_to_Red_Hat_OpenShift_for_Developers.pdf) |
+22th Sep 2021, 10:00 CEST|Application Packaging | [Application Packaging Slides](./2_Application_Packaging.pdf) |
+|29th Sep 2021, 10:00 CEST|CI/CD|[Slides to CI/CD](./3_CI_CD.pdf)|
+|7th Oct 2021, 10:00 CEST|Optional And Homework|[Slides to the Homework description and Optional Learnings](./4_Optional_and_Homework.pdf)|
 
 
 
